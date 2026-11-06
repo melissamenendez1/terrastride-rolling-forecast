@@ -1,0 +1,7 @@
+[project]
+name = "TerraStride 13-Week Rolling Revenue Forecast"
+version = "0.1.0"
+requires-python = ">= 3.13"
+dependencies = ["pandas",
+    "numpy",
+    "statsmodels",]
